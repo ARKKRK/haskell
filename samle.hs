@@ -3,6 +3,8 @@
 {-# OPTIONS_GHC -fno-warn-unused-binds   #-}
 {-# OPTIONS_GHC -fno-warn-type-defaults  #-}
 
+
+
 module Codelab where
 
 import Control.Monad        (void)
