@@ -7,6 +7,8 @@
 
 
 
+
+
 module Codelab where
 
 import Control.Monad        (void)
@@ -26,4 +28,3 @@ and :: [Bool] -> Bool
 and [] = True
 and (False:_) = False
 and (True:l) = and l
-
